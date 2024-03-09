@@ -1,0 +1,26 @@
+{
+"name": "resher0013",
+"version": "1.0.0",
+"description": "ted in cryptocurrencies? Crypto101 is your beginner's guide, offering fundamental know",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/shenyouchulaopo/REsher0013.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "shenyouchulaopo",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
